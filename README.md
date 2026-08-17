@@ -2,4 +2,4 @@
 
 ### 📚 Teaching & Resources
 You can check out my slides and resources here:
-👉 [slides.com/wenian](https://slides.com/wenian)
+👉 [slides.com/xixiceng12](https://slides.com/xixiceng12)
