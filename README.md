@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-<!--
+<!--### 📚 Teaching & Resources
+
+You can check out my slides and resources here:
+👉 [slides.com/wenian](https://slides.com/xixiceng12)
 **xixiceng12/xixiceng12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
